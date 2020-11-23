@@ -3,7 +3,9 @@
 # Crypto Tracker
 
 App built with React, HTML5, CSS3, BOOTSTRAP.
+
 To fetching the crypto price details i was using https://www.coingecko.com/en/api.
+
 In this app user can search for the specific crypto currency and see preices in the different currency, such as: CAD$, USD$, and EURO.
 
 
