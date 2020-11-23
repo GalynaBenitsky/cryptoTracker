@@ -8,6 +8,7 @@ To fetching the crypto price details i was using https://www.coingecko.com/en/ap
 
 In this app user can search for the specific crypto currency and see preices in the different currency, such as: CAD$, USD$, and EURO.
 
+<img width="783" alt="Screen Shot 2020-11-23 at 12 58 02 AM" src="https://user-images.githubusercontent.com/43690415/99934158-34f13a00-2d2b-11eb-8300-da7e4359e768.png">
 
 
 # Getting Started with Create React App
