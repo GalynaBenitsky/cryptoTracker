@@ -2,7 +2,7 @@
 
 # Crypto Tracker
 
-App built with React, HTML5, CSS3, BOOTSTRAP.
+App built with React, HTML5, CSS3, BOOTSTRAP and REST APIs.
 
 To fetching the crypto price details i was using https://www.coingecko.com/en/api.
 
